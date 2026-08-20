@@ -81,4 +81,4 @@ The dashboard allows users to analyze e-commerce performance interactively. User
 
 **SmartCart E-Commerce Dashboard**
 
-Built as a data analytics and visualization project using Python.
+
